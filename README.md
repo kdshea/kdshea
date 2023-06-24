@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h2>💻 Full Stack Developer</h2>
   <h3>🔭 I'm open new opportunities and projects!</h3>
   <h3>📫 How to reach me: <br>
-    <a href="https://www.linkedin.com/in/katedshea/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/kdshea/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="https://twitter.com/Kate_Shea_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
     <a href="mailto: daishea@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   </h3>
