@@ -3,7 +3,7 @@
   <div>
     <h2>About Me</h2>
     <p align="center">
-      I'm a freelance full stack developer with a passion for crafting innovative web solutions. With 7 years of experience with front-end web development and one year of expertise with server-side programming and back-end technologies, I'm well-equipped to tackle a wide range of development challenges and deliver end-to-end solutions. I have successfully delivered diverse projects, including web applications, RESTful APIs, and database management. I continually strive to solve complex problems and provide efficient, user-friendly solutions.
+      I'm a freelance full stack developer with a passion for crafting innovative web solutions. With over 8 years of experience with front-end web development, server-side programming and back-end technologies, I'm well-equipped to tackle a wide range of development challenges and deliver end-to-end solutions. I have successfully delivered diverse projects, including web applications, RESTful APIs, and database management. I continually strive to solve complex problems and provide efficient, user-friendly solutions.
     </p>
     <p>🪴 Vinyasa Teacher<br />
       💉 Registered Nurse<br />
